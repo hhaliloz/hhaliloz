@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ybsblog.com/wp-content/uploads/2020/07/programming-lang-scaled.jpeg)
+![MasterHead](https://www.ybsblog.com/wp-content/uploads/2020/07/programming-lang-scaled.jpeg)
 
 <h1 align="center">Hi 👋, I'm Halil Oz</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
@@ -16,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhaliloz&show_icons=true&locale=en" alt="hhaliloz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhaliloz&" alt="hhaliloz" /></p>
