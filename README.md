@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQF1D-Oe7dzpaA/profile-displaybackgroundimage-shrink_350_1400/B4DZkVCJjhGQAg-/0/1756994513819?e=1759968000&v=beta&t=GvTf9UNYzKp-w8o_jo9WYHvHye-3HuPPnk8cxeP8Dhg)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH5z0ZXqbYJxQ/profile-displaybackgroundimage-shrink_350_1400/B4EZlH_RpIIQAY-/0/1757849397723?e=1760572800&v=beta&t=39nUiRcfiZ1kts84gZ5JzS5fLztY9SN8t6vKE0uO5q8)
 
 <h1 align="center">Hi 👋, I'm Halil Oz</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
